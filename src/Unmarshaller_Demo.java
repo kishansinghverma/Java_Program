@@ -15,5 +15,4 @@ public class Unmarshaller_Demo {
         System.out.println(s1.getRoll_no());
         System.out.println(s1.getCourse());
     }
-
 }
